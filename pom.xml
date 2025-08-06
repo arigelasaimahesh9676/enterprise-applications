@@ -5,7 +5,7 @@
   <artifactId>maven-enterprise-application</artifactId>
   <packaging>pom</packaging>
   <version>1.0</version>
-  <name> Maven Enterprise Application</name>
+  <name> Maven Enterprise Applications</name>
   <url>http://maven.apache.org</url>
   <modules>
     <module>MavenEnterpriseApp-ear</module>
